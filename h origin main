@@ -1,0 +1,23 @@
+[33mcommit c19340848751aeea4dcd09cda77482c03ffb5db8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MRkubika-dev <andriabuzaladze50@gmail.com>
+Date:   Tue Jun 9 22:03:52 2026 +0400
+
+    Edit README.md and hello_world.txt
+
+[33mcommit ee6dbeba653179c101fb629bfc34fd4957c8bade[m
+Author: MRkubika-dev <andriabuzaladze50@gmail.com>
+Date:   Tue Jun 9 21:48:32 2026 +0400
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 86588760d746a9cd9719b2c0625acb0983207189[m
+Author: MRkubika-dev <andriabuzaladze50@gmail.com>
+Date:   Tue Jun 9 21:36:51 2026 +0400
+
+    Add hello_world.txt
+
+[33mcommit eeddb1dddea15ce1fe24aab63aa1c87585126ef5[m
+Author: MRkubika-dev <andriabuzaladze50@gmail.com>
+Date:   Tue Jun 9 21:27:51 2026 +0400
+
+    Initial commit
